@@ -29,3 +29,13 @@
 ![Screenshot from 2023-10-06 23-38-41](https://github.com/PromiseNwachukwu/Basic-Git-Projects/assets/109115304/550a3fe8-005a-4bb2-92e7-d6feaa82f52e)
 
 ## Collaboration and Remote Repositories
+### Creating a github account and a git repository.
+    • Create a github account.
+    • Create a git repository named Basic-Git-Project.
+![Screenshot from 2023-10-07 00-03-51](https://github.com/PromiseNwachukwu/Basic-Git-Projects/assets/109115304/d79764f8-758b-4382-a6a6-82d573c39a32)
+
+### Pushing your Local git Repository to your Remote github Repository.
+    • Adding the remote repository to the local repository.
+        git remote add origin https://github.com/PromiseNwachukwu/Basic-Git-Project.git
+    • After commiting the changes in your local repo. To push the content to the remote repository.
+        git push origin main
